@@ -1,19 +1,33 @@
-Flask==3.0.2
-openai==1.12.0
-python-dotenv==1.0.1
-gunicorn==21.2.0
-Werkzeug==3.0.1
+annotated-types==0.7.0
+anyio==4.6.2.post1
+blinker==1.9.0
+certifi @ file:///private/tmp/python-certifi-20240202-4859-woa1q8/certifi-2024.2.2
 click==8.1.7
-blinker==1.7.0
-itsdangerous==2.1.2
-Jinja2==3.1.3
-MarkupSafe==2.1.5
-packaging==23.2
-httpx==0.26.0
-anyio==4.3.0
-certifi==2024.2.2
 distro==1.9.0
+docutils @ file:///private/tmp/docutils-20231212-45810-pm57yi/docutils-0.20.1
+Flask==3.1.0
+gunicorn==23.0.0
 h11==0.14.0
-idna==3.6
-sniffio==1.3.0
-typing_extensions==4.9.0
+httpcore==1.0.7
+httpx==0.27.2
+idna==3.10
+itsdangerous==2.2.0
+Jinja2==3.1.4
+jiter==0.7.1
+MarkupSafe==3.0.2
+openai==1.55.0
+openvino @ file:///private/tmp/openvino-20240120-6458-q864fr/openvino-2023.3.0/src/bindings/python/wheel
+packaging==24.2
+protobuf==4.25.3
+pydantic==2.10.1
+pydantic_core==2.27.1
+Pygments @ file:///private/tmp/pygments-20231121-5322-nddh6n/pygments-2.17.2
+python-dotenv==1.0.1
+setuptools @ file:///private/tmp/python-setuptools-20240223-4741-z6ae5m/setuptools-69.1.1
+six==1.16.0
+sniffio==1.3.1
+TBB @ file:///private/tmp/tbb-20231202-5017-e7si4m/oneTBB-2021.11.0/python
+tqdm==4.67.0
+typing_extensions==4.12.2
+Werkzeug==3.1.3
+wheel @ file:///usr/local/Cellar/python%403.12/3.12.2_1/libexec/wheel-0.42.0-py3-none-any.whl#sha256=5f1ca525bef7466225922019d72cb06a9e91cd3ff807ddd4be1acb84655e5107
